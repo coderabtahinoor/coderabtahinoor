@@ -1,25 +1,69 @@
-
-# Hi! I am <a href="https://smabtahinoor.vercel.app">S.M.Abtahi Noor</a>
-Here are some ideas to get you started:
-
-- 🔭 I read in class VIII at Dhaka Residential Model College. 
-- 🌱 I’m currently learning React.
-- 🌱 My hobbies are coding,painting and singing.
-- 📫 How to reach me: <a href="https://www.facebook.com/abtahinoorsm"> Facebook Profile </a>, <a href="https://www.facebook.com/19smabtahinoor"> Facebook Page </a> , <a href="https://www.instagram.com/smabtahinoor">Instagram </a> ,<a href="https://www.twitter.com/smabtahinoor">Twitter </a>, <a href="https://www.linkedin.com/in/smabtahinoor/"> Linkedin </a>
-- 😄 Pronouns: He/His.
-- 📫 My Portfolio: <a href="https://smabtahinoor.vercel.app">S.M.Abtahi Noor </a>
-
-<p align="left"> <a href="https://twitter.com/smabtahinoor" target="blank"><img src="https://img.shields.io/twitter/follow/smabtahinoor?logo=twitter&style=for-the-badge" alt="smabtahinoor" /></a> </p>
+# 🖐 Hi , I am [S.M.Abtahi Noor](https://smabtahinoor.vercel.app)
 
 
+![Github Cover](githubcover.jpg)
+### Here are some ideas about me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/smabtahinoor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="smabtahinoor" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/smabtahinoor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smabtahinoor" height="30" width="40" /></a>
-<a href="https://fb.com/abtahinoorsm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abtahinoorsm" height="30" width="40" /></a>
-<a href="https://instagram.com/smabtahinoor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="smabtahinoor" height="30" width="40" /></a>
-</p>
+- 🏫 I read in Class 8 at [Dhaka Residential Model College](http://drmc.edu.bd)
+- 🌱 I'm currently Learning **What i Need** 🤣
+- 💻 Most used code `console.log()`
+- 🎯 2021 Goals: **MERN Stack Development**
+- 😂 Fun Fact: I like cricket and football.
+- 📫 My Portfolio: [S.M.Abtahi Noor](https://smabtahinoor.vercel.app)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com" target="_blank"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="tailwindcss" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/2x/bootstrap.png" alt="Bootstrap" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://material-ui.com/" target="_blank"> <img src="https://material-ui.com/static/logo_raw.svg" alt="react" width="40" height="40"/> </a><a href="https://npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/2x/npm.png" alt="npm" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vs code" width="40" height="40"/> </a></p>
+
+
+[![Twitter Badge](https://img.shields.io/twitter/follow/smabtahinoor?logo=twitter&style=for-the-badge)](https://twitter.com/smabtahinoor)
+
+![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=coderabtahinoor.coderabtahinoor)
+
+![Profile Follower Count](https://img.shields.io/github/followers/coderabtahinoor.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000)
+
+
+
+## 🚀 Connect with me
+
+
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abtahinoorsm)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/smabtahinoor)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/smabtahinoor)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smabtahinoor)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/19smabtahinoor)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abtahinorkabid@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WJjCBB86PJ)
+
+
+
+## 💻 Languages and Tools:
+
+
+
+[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/coderabtahinoor)
+[![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/coderabtahinoor)
+[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/coderabtahinoor)
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/coderabtahinoor)
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/coderabtahinoor)
+[![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/coderabtahinoor)
+[![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/coderabtahinoor)
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/coderabtahinoor)
+[![Styled Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://github.com/coderabtahinoor)
+[![Material UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/coderabtahinoor)
+[![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://github.com/coderabtahinoor)
+[![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://github.com/coderabtahinoor)
+[![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/coderabtahinoor)
+[![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/coderabtahinoor)
+[![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/coderabtahinoor)
+[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/coderabtahinoor)
+[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://github.com/coderabtahinoor)
+[![Git Badge](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)](https://github.com/coderabtahinoor)
+[![Npm Badge](https://img.shields.io/badge/npm-d7141a?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/coderabtahinoor)
+[![Yarn Badge](https://img.shields.io/badge/yarn-0078D6?style=for-the-badge&logo=yarn&logoColor=white)](https://github.com/coderabtahinoor)
+[![Vercel Badge](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/coderabtahinoor)
+[![Google Chrome Badge](https://img.shields.io/badge/google_chrome-556532?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/coderabtahinoor)
+[![Notion Badge](https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/coderabtahinoor)
+[![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/coderabtahinoor)
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=coderabtahinoor&show_icons=true&theme=dark)
