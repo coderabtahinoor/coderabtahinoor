@@ -69,20 +69,21 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=coderabtahinoor&show_icons=true&theme=dark)
 
 ## Projects Link (Assignments)
-https://ranga-books.vercel.app/
-http://ranga-store-ibazar-bug-fix.vercel.app/
-http://book-archive-vanilla-js-smabtahinoor.vercel.app/
-https://coderabtahinoor.github.io/Search-Your-Country-Vanilla-JS/
-https://19smabtahinoor.github.io/The-MealDB-Vanilla-JS/
-https://19smabtahinoor.github.io/Quotes-Generator-Vanilla-JS/
-https://19smabtahinoor.github.io/Daily-Task-Manager-VanillaJS/
-https://mac-book-pro-ph.vercel.app/
-https://19smabtahinoor.github.io/Book-Shopping-Cart-VanillaJS/
-https://19smabtahinoor.github.io/Pin-Generate-and-Verify-VanillaJS/
-https://github.com/19smabtahinoor/TravelX-VanillaJS
-https://coderabtahinoor.github.io/Shopping-Cart-VanillaJS/
-https://tokai-bank.vercel.app/
-https://honda-cbr-assignment-ph.vercel.app/
-https://coderabtahinoor.github.io/Panda-Commerce/
-https://coderabtahinoor.github.io/Football-Landing-Page-ph/
-https://coderabtahinoor.github.io/food-network-ph/index.html
+- https://ranga-books.vercel.app/
+- http://ranga-store-ibazar-bug-fix.vercel.app/
+- http://book-archive-vanilla-js-smabtahinoor.vercel.app/
+- https://coderabtahinoor.github.io/Search-Your-Country-Vanilla-JS/
+- https://19smabtahinoor.github.io/The-MealDB-Vanilla-JS/
+- https://19smabtahinoor.github.io/Quotes-Generator-Vanilla-JS/
+- https://19smabtahinoor.github.io/Daily-Task-Manager-VanillaJS/
+- https://mac-book-pro-ph.vercel.app/
+- https://19smabtahinoor.github.io/Book-Shopping-Cart-VanillaJS/
+- https://19smabtahinoor.github.io/Pin-Generate-and-Verify-VanillaJS/
+- https://github.com/19smabtahinoor/TravelX-VanillaJS
+- https://coderabtahinoor.github.io/Shopping-Cart-VanillaJS/
+- https://tokai-bank.vercel.app/
+- https://honda-cbr-assignment-ph.vercel.app/
+- https://coderabtahinoor.github.io/Panda-Commerce/
+- https://coderabtahinoor.github.io/Football-Landing-Page-ph/
+- https://coderabtahinoor.github.io/food-network-ph/index.html
+- https://language-school-an.vercel.app/
